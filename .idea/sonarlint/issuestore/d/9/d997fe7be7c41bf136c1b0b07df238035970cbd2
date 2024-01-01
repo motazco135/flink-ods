@@ -1,0 +1,32 @@
+
+n
+java:S1192ï"KDefine a constant instead of duplicating this literal "created_at" 3 times.(ŞÑÈ“şÿÿÿÿ8Ğû—òÉ1
+i
+java:S1192ğ"KDefine a constant instead of duplicating this literal "updated_at" 3 times.(Ø›½¦8Ğû—òÉ1
+i
+java:S1192ç"FDefine a constant instead of duplicating this literal "after" 4 times.(«Ö€šşÿÿÿÿ8Ğû—òÉ1
+]	java:S125d"<This block of commented-out lines of code should be removed.(ùëşƒûÿÿÿÿ8‰ü—òÉ1
+]	java:S125p"<This block of commented-out lines of code should be removed.(‘¥³…øÿÿÿÿ8Šü—òÉ1
+H	java:S106›"+Replace this use of System.out by a logger.(»å¾¨8Œü—òÉ1
+H	java:S106®"+Replace this use of System.out by a logger.(•ÆÃÌ8ü—òÉ1
+^	java:S125Ï"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ8á•œòÉ1
+^	java:S125ã"<This block of commented-out lines of code should be removed.(˜èäâÿÿÿÿÿ8’ü—òÉ1
+i
+java:S1612è"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8“ü—òÉ1
+i
+java:S1612ö"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8”ü—òÉ1
+i
+java:S1612„"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8•ü—òÉ1
+X
+java:S6213‘":Rename this variable to not match a restricted identifier.(’Í°Ï8—ü—òÉ1
+X
+java:S6213—":Rename this variable to not match a restricted identifier.(º”¤Æ8—ü—òÉ1
+X
+java:S6213":Rename this variable to not match a restricted identifier.(§ÌÄ8˜ü—òÉ1
+i
+java:S1612µ"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8™ü—òÉ1
+i
+java:S1612¼"FReplace this lambda with method reference 'GenericRecord.class::cast'.(›ÈŒßıÿÿÿÿ8šü—òÉ1
+H	java:S106¿"+Replace this use of System.out by a logger.(Ë•šé8šü—òÉ1
+I
+java:S1068!",Remove this unused "GROUP_ID" private field.(·¶ª´8›ü—òÉ1

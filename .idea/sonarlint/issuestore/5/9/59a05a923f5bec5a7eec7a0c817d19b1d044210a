@@ -1,0 +1,41 @@
+
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®û»‚ÿÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®û»‚ÿÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®û»‚ÿÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®û»‚ÿÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®û»‚ÿÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®û»‚ÿÿÿÿÿ
+f	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûùõú
+l	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ
+l	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»Ä¼‡şÿÿÿÿ
+v	java:S116M"aRename this field "transaction_ref_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ââÑ
+p	java:S116N"VRename this field "customer_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±®‹Ìÿÿÿÿÿ
+o	java:S116O"URename this field "account_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯á‰âûÿÿÿÿ
+w	java:S116P"]Rename this field "transaction_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çë¢§ÿÿÿÿÿ
+u	java:S116Q"[Rename this field "transaction_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àîôıÿÿÿÿ
+o	java:S116R"URename this field "created_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¹şµıÿÿÿÿ
+F
+java:S2160"+Override the "equals" method in this class.(Ìì†ôıÿÿÿÿ
+N
+java:S1948M"8Make "transaction_ref_number" transient or serializable.(ââÑ
+M
+java:S1948Q"2Make "transaction_type" transient or serializable.(Àîôıÿÿÿÿ
+w	java:S116µ"aRename this field "transaction_ref_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ââÑ
+q	java:S116¶"VRename this field "customer_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±®‹Ìÿÿÿÿÿ
+p	java:S116·"URename this field "account_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯á‰âûÿÿÿÿ
+x	java:S116¸"]Rename this field "transaction_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çë¢§ÿÿÿÿÿ
+v	java:S116¹"[Rename this field "transaction_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àîôıÿÿÿÿ
+p	java:S116º"URename this field "created_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¹şµıÿÿÿÿ
+G
+java:S2160±"+Override the "equals" method in this class.(¥ï¹èıÿÿÿÿ
+P
+java:S6213 ":Rename this variable to not match a restricted identifier.(ıŞ×,
+J
+java:S1905³".Remove this unnecessary cast to "DatumWriter".(êã±ƒşÿÿÿÿ
+J
+java:S1905¼".Remove this unnecessary cast to "DatumReader".(½ÿ“’øÿÿÿÿ
+h
+java:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ö’®S
+W
+java:S1128"ARemove this unused import 'org.apache.avro.generic.GenericArray'.(é¥œÿ

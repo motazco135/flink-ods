@@ -1,0 +1,39 @@
+
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŸÿÈøÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŸÿÈøÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŸÿÈøÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŸÿÈøÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŸÿÈøÿÿÿÿ
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŸÿÈøÿÿÿÿ
+f	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûùõú
+l	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ
+l	java:S117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñì–˜ûÿÿÿÿ
+s	java:S116M"YRename this field "account_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÄÅ¨üÿÿÿÿ
+n	java:S116N"YRename this field "account_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÚ±„
+o	java:S116O"ZRename this field "account_balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¾Ôø
+p	java:S116P"VRename this field "customer_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±®‹Ìÿÿÿÿÿ
+j	java:S116Q"URename this field "created_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‚Ñ
+o	java:S116R"URename this field "updated_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¶ÿÛøÿÿÿÿ
+F
+java:S2160"+Override the "equals" method in this class.(Ìì†ôıÿÿÿÿ
+F
+java:S1948N"0Make "account_status" transient or serializable.(ÓÚ±„
+t	java:S116µ"YRename this field "account_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÄÅ¨üÿÿÿÿ
+o	java:S116¶"YRename this field "account_status" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÚ±„
+p	java:S116·"ZRename this field "account_balance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹¾Ôø
+q	java:S116¸"VRename this field "customer_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±®‹Ìÿÿÿÿÿ
+k	java:S116¹"URename this field "created_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‚Ñ
+p	java:S116º"URename this field "updated_at" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¶ÿÛøÿÿÿÿ
+G
+java:S2160±"+Override the "equals" method in this class.(¥ï¹èıÿÿÿÿ
+P
+java:S6213¡":Rename this variable to not match a restricted identifier.(ıŞ×,
+J
+java:S1905´".Remove this unnecessary cast to "DatumWriter".(êã±ƒşÿÿÿÿ
+J
+java:S1905½".Remove this unnecessary cast to "DatumReader".(½ÿ“’øÿÿÿÿ
+h
+java:S3776å"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Ö’®S
+W
+java:S1128"ARemove this unused import 'org.apache.avro.generic.GenericArray'.(é¥œÿ
