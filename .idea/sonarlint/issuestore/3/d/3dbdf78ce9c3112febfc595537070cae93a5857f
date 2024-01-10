@@ -1,30 +1,29 @@
 
 n
-java:S1192±"KDefine a constant instead of duplicating this literal "created_at" 3 times.(ŞÑÈ“şÿÿÿÿ8ÃÛÜ–Ì1
+java:S1192Ä"KDefine a constant instead of duplicating this literal "created_at" 3 times.(ŞÑÈ“şÿÿÿÿ8ÃÛÜ–Ì1
 i
-java:S1192©"FDefine a constant instead of duplicating this literal "after" 3 times.(«Ö€šşÿÿÿÿ8ÄÛÜ–Ì1
+java:S1192¼"FDefine a constant instead of duplicating this literal "after" 3 times.(«Ö€šşÿÿÿÿ8ÄÛÜ–Ì1
+K
+java:S1604¦"(Make this anonymous inner class a lambda(×¡ÓÄşÿÿÿÿ8íø­Ï1
 
-java:S1488î"\Immediately return this expression instead of assigning it to the temporary variable "time".(³•Óêúÿÿÿÿ8ÈÛÜ–Ì1
-^	java:S125¤"<This block of commented-out lines of code should be removed.(˜èäâÿÿÿÿÿ8ªÜÜ–Ì1
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "time".(³•Óêúÿÿÿÿ8ÈÛÜ–Ì1
+K
+java:S1874¥"-Remove this use of "keyBy"; it is deprecated.(ûËØ“8¤óø­Ï1
+^	java:S125·"<This block of commented-out lines of code should be removed.(˜èäâÿÿÿÿÿ8ªÜÜ–Ì1
 i
-java:S1612ª"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8«ÜÜ–Ì1
+java:S1612½"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8«ÜÜ–Ì1
 i
-java:S1612¹"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8­ÜÜ–Ì1
+java:S1612Ì"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8­ÜÜ–Ì1
 i
-java:S1612È"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8¯ÜÜ–Ì1
+java:S1612Û"FReplace this lambda with method reference 'GenericRecord.class::cast'.(”ı±ëıÿÿÿÿ8¯ÜÜ–Ì1
 X
-java:S6213Õ":Rename this variable to not match a restricted identifier.(’Í°Ï8±ÜÜ–Ì1
+java:S6213è":Rename this variable to not match a restricted identifier.(’Í°Ï8±ÜÜ–Ì1
 X
-java:S6213Ù":Rename this variable to not match a restricted identifier.(º”¤Æ8²ÜÜ–Ì1
+java:S6213ì":Rename this variable to not match a restricted identifier.(º”¤Æ8²ÜÜ–Ì1
 X
-java:S6213İ":Rename this variable to not match a restricted identifier.(§ÌÄ8²ÜÜ–Ì1
+java:S6213ğ":Rename this variable to not match a restricted identifier.(§ÌÄ8²ÜÜ–Ì1
 i
-java:S1612ï"FReplace this lambda with method reference 'GenericRecord.class::cast'.(›ÈŒßıÿÿÿÿ8ºÜÜ–Ì1
-s
-java:S1128
-"QRemove this unused import 'org.apache.flink.api.common.functions.ReduceFunction'.(Äåæ«ûÿÿÿÿ8÷—ä–Ì1
-`
-java:S1128"CRemove this unused import 'org.apache.flink.api.java.tuple.Tuple2'.(§Ùº8÷—ä–Ì1
+java:S1612‚"FReplace this lambda with method reference 'GenericRecord.class::cast'.(›ÈŒßıÿÿÿÿ8ºÜÜ–Ì1
 ƒ
 java:S1128"aRemove this unused import 'org.apache.flink.connector.kafka.sink.KafkaRecordSerializationSchema'.(â¿ŒÊşÿÿÿÿ8»ÜÜ–Ì1
 n
